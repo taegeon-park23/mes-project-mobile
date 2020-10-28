@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035473077440",
+    "firebase_url": "https://mes-project-mobile.firebaseio.com",
+    "project_id": "mes-project-mobile",
+    "storage_bucket": "mes-project-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035473077440:android:a4b3a2765c4610119ed925",
+        "android_client_info": {
+          "package_name": "com.mesmobileproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035473077440-tlope3639k687rihfrd3be625hcnn0kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkUD4s_XoEEBcCIqCYlcX76mNcKWQdq4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035473077440-tlope3639k687rihfrd3be625hcnn0kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
